@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\solidrepo\Single Responsibility Principle\SRP_FirstExample\SRP_FirstExample\bin\Debug\SRP_FirstExample.exe.config
+C:\Users\User\Desktop\solidrepo\Single Responsibility Principle\SRP_FirstExample\SRP_FirstExample\bin\Debug\SRP_FirstExample.exe
+C:\Users\User\Desktop\solidrepo\Single Responsibility Principle\SRP_FirstExample\SRP_FirstExample\bin\Debug\SRP_FirstExample.pdb
+C:\Users\User\Desktop\solidrepo\Single Responsibility Principle\SRP_FirstExample\SRP_FirstExample\obj\Debug\SRP_FirstExample.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\solidrepo\Single Responsibility Principle\SRP_FirstExample\SRP_FirstExample\obj\Debug\SRP_FirstExample.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\solidrepo\Single Responsibility Principle\SRP_FirstExample\SRP_FirstExample\obj\Debug\SRP_FirstExample.exe
+C:\Users\User\Desktop\solidrepo\Single Responsibility Principle\SRP_FirstExample\SRP_FirstExample\obj\Debug\SRP_FirstExample.pdb
